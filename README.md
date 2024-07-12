@@ -16,10 +16,14 @@ To run the project please run the command -  node index.js
    
    Method: Put
  
-   URL - http://localhost:3000/api/users/update/04  We have to give UserId which user details we have to update.
+   URL - http://localhost:3000/api/users/update/04
 
-4) To delete user
+   We have to give UserId which user details we have to update.
+
+5) To delete user
    
     Method : Delete
  
-    URL - http://localhost:3000/api/users/delete/03  We have to give UserId which user details we have to delete.
+    URL - http://localhost:3000/api/users/delete/03
+
+    We have to give UserId which user details we have to delete.

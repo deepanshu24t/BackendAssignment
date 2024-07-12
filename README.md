@@ -1,7 +1,9 @@
 To run the project please run the command -  node index.js 
 
 To get the  details of all users 
+ 
  Method : Get
+ 
  URL - http://localhost:3000/api/users/getAllUsers
 
 To add new user 

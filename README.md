@@ -1,4 +1,4 @@
-To run the project please run the command-  node index.js 
+To run the project please run the command -  node index.js 
 
 To get the  details of all users 
 Method : Get

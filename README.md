@@ -8,18 +8,18 @@ To run the project please run the command -  node index.js
 
 2) To add new user
    
-Method : Post
+   Method : Post
  
-URL - http://localhost:3000/api/users/add
+   URL - http://localhost:3000/api/users/add
 
 3) To update details of users
    
- Method: Put
+   Method: Put
  
- URL - http://localhost:3000/api/users/update/04  We have to give UserId which user details we have to update.
+   URL - http://localhost:3000/api/users/update/04  We have to give UserId which user details we have to update.
 
 4) To delete user
    
- Method : Delete
+    Method : Delete
  
- URL - http://localhost:3000/api/users/delete/03  We have to give UserId which user details we have to delete.
+    URL - http://localhost:3000/api/users/delete/03  We have to give UserId which user details we have to delete.

@@ -1,0 +1,52 @@
+[
+  {
+    "userID": "01",
+    "name": "Deepanshu ",
+    "email": "deep@gmail.com",
+    "phone": "9999999999",
+    "address": "Delhi"
+  },
+  {
+    "userID": "02",
+    "name": "Jane Doe",
+    "email": "jane_doe@gmail.com",
+    "phone": "888888888",
+    "address": "85 Bakers Street, London"
+  },
+  {
+    "userID": "03",
+    "name": "Ayush",
+    "email": "ayu@gmail.com",
+    "phone": "9999999999",
+    "address": "delhi"
+  },
+  {
+    "userID": "04",
+    "name": "Ravi",
+    "email": "ravi@gmail.com",
+    "phone": "7777777777",
+    "address": "123 Main St"
+  },
+  {
+    "userID": "05",
+    "name": "Rohit",
+    "email": "rohit@gmail.com",
+    "phone": "6666666666",
+    "address": "gurugram"
+  },
+  {
+    "userID": "06",
+    "name": "Akash",
+    "email": "akash@gmail.com",
+    "phone": "5555555555",
+    "address": "Noida"
+  },
+  {
+    "userID": "07",
+    "name": "Piyush",
+    "email": "piyush@gmail.com",
+    "phone": "4444444444",
+    "address": "Mumbai"
+  }
+
+]

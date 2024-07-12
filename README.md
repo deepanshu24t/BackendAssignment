@@ -10,7 +10,7 @@ URL - http://localhost:3000/api/users/add
 
 To update details of users
 Method : Put
-URL - http://localhost:3000/api/users/update/02  We have to give UserId which user details we have to update.
+URL - http://localhost:3000/api/users/update/04  We have to give UserId which user details we have to update.
 
 To delete user
 Method : Delete

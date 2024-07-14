@@ -1,6 +1,6 @@
 To install all dependencies in the project first run the command - npm install
 
-Then To run the project please run the command - npm run dev or nodeindex.js 
+Then to run the project please run the command - npm run dev or node index.js 
 
 1) To get the  details of all users 
  
